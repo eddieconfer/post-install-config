@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8uvPQCV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I first entered the admin panel and under agents I created a new role labeled "Supreme Admin".
@@ -46,7 +46,7 @@ The next step I took was to create a "System Administrators" department in the a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DNl3MXC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/i3SClk3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 My next action was to create two teams in the agents section of the admin panel. The two teams were labeled "Level I Support" and the other was labeled "Level II Support".
@@ -54,7 +54,7 @@ My next action was to create two teams in the agents section of the admin panel.
 <br />
 
 <p>
-<img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fmQIqI5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After creating teams I then added two agents.
@@ -78,7 +78,7 @@ Once users were created I created SLA sections distinguishing differnt severitie
 <br />
 
 <p>
-<img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sJkm5SY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lastly I created help topics for better organization of tickets.
