@@ -38,7 +38,7 @@ I first entered the admin panel and under agents I created a new role labeled "S
 <br />
 
 <p>
-<img src="https://i.imgur.com/OVTL0af.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TjEhA00.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The next step I took was to create a "System Administrators" department in the admin panel.
@@ -62,7 +62,7 @@ After creating teams I then added two agents.
 <br />
 
 <p>
-<img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2GXaJby.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The next step was to create users that could submit tickets.
@@ -70,7 +70,7 @@ The next step was to create users that could submit tickets.
 <br />
 
 <p>
-<img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cleGyD3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once users were created I created SLA sections distinguishing differnt severities of problems.
