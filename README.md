@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I installed OsTicket on a Windows 10 virtual machine I created in Microsoft Azure. I then enabled (php_imap.dll); (php_intl.dll); and (php_opcache.dll).
+I first entered the admin panel and under agents I created a new role labeled "Supreme Admin".
 </p>
 <br />
 
@@ -41,7 +41,7 @@ I installed OsTicket on a Windows 10 virtual machine I created in Microsoft Azur
 <img src="https://i.imgur.com/OVTL0af.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I then used HeidiSQL to create a session. Next, I created a database called osTicket.
+The next step I took was to create a "System Administrators" department in the admin panel.
 </p>
 <br />
 
@@ -49,6 +49,38 @@ I then used HeidiSQL to create a session. Next, I created a database called osTi
 <img src="https://i.imgur.com/DNl3MXC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lastly, I finished creating the osTicket enviornment by connecting osTicket to the database I made in Heidi SQL.
+My next action was to create two teams in the agents section of the admin panel. The two teams were labeled "Level I Support" and the other was labeled "Level II Support".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After creating teams I then added two agents.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The next step was to create users that could submit tickets.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once users were created I created SLA sections distinguishing differnt severities of problems.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lastly I created help topics for better organization of tickets.
 </p>
 <br />
