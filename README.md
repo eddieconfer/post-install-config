@@ -17,16 +17,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>List of Post-Install Configurations</h2>
 
-- Downloaded PHP Manager  for IIS
-- Downloaded the Rewrite Module
-- Downloaded PHP 7.3.8
-- Downloaded VC_redist.x86
-- Downloaded MySQL 5.5.62
-- Downloaded Heidi SQL
+- Configured Roles
+- Configured Departments
+- Configured Teams
+- Configured Agents
+- Configured Users
+- Configured SLA's
+- Configured Help Topics
 
-<h2>Installation Steps</h2>
+<h2>Configuration Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/6UB9URN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
